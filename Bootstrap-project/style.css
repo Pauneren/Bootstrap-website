@@ -1,0 +1,30 @@
+header.container-fluid{
+    background-color:rgb(38, 38, 136);
+    color: cornsilk;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+footer{
+    background-color: darkgoldenrod;
+    text-align: center;
+    height: 5rem;
+
+}
+h3.h3a{
+    display: inline-flex;
+    padding: 1.5rem;
+
+}
+.jumbotron{
+    margin-top: rem;
+}
+.movies{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
